@@ -11,9 +11,6 @@ I like :
 * Innovation
 * ...
 
-
-
-
 ## Experience
 * **Digitalization project manager** at *Fiducial 2020 - 2018*
 * **Web Developer** at *Plugin Design 2018 - 2017*
@@ -25,9 +22,9 @@ I like :
 -->
 
 ## Education
-* **RNCP LEVEL 1 INFORMATION SYSTEM PROJECT MANAGER** 2020
-* **OPQUAST ACCREDITATION** 2018
-* **RNCP LEVEL 3 SOFTWARE DEVELOPER** 2018
+* **RNCP level 1 Information System Project Manager** 2020
+* **Opquast accreditation** 2018
+* **RNCP level 3 Software Developer** 2018
 
 <!--
 **Bastiendmt/Bastiendmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
