@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I'm a French **developer** aspiring to a **managerial career** keeping a foot in tech. I always pay attention to details and a clear organization in order to aim for perfection. 
 
 Specalized in **web development** and **React**.
@@ -25,6 +25,9 @@ I like :
 * **RNCP level 1 Information System Project Manager** 2020
 * **Opquast accreditation** 2018
 * **RNCP level 3 Software Developer** 2018
+
+
+My Github is mostly aimed for personnal projects. Check my [Gitlab](https://gitlab.com/bastienxs) for collaboration projects 👍. 
 
 <!--
 **Bastiendmt/Bastiendmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
