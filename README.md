@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a French **developer** aspiring to a **managerial career** keeping a foot in tech. I always pay attention to details and a clear organization in order to aim for perfection. 
+I'm a French **developer** evolving towards **managerial responsibilities** keeping a foot in tech. I always pay attention to details and a clear organization in order to aim for perfection. 
 
 Specalized in **web development** and **React**.
 
