@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a French **JavaScript developer**. I'm aspiring to aquire **managerial responsibilities** medium term 💻
+I'm a French **JavaScript developer**. I'm aspiring to acquire **managerial responsibilities** medium term 💻
 
 I also love design ✏ and project management 📊
 
