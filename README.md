@@ -17,6 +17,7 @@ I like :
 
 ## Experience
 * **Digitalization project manager** at *Fiducial 2020 - 2018*
+* **React Native developer** at *Institut G4 2018 - 2019*
 * **Web Developer** at *Plugin Design 2018 - 2017*
 * **Enterprise technician** at *Orange 2017-2016*
 
