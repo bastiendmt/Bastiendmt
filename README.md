@@ -1,5 +1,9 @@
 ## Hi there 👋
-I'm a French **developer** evolving towards **managerial responsibilities** keeping a foot in tech. I always pay attention to details and a clear organization in order to aim for perfection. 
+I'm a French **JavaScript developer**. I'm aspiring to aquire **managerial responsibilities** medium term 💻
+
+I also love design ✏ and project management 📊
+
+I always pay attention to details and a clear organization in order to aim for perfection. 
 
 Specalized in **web development** and **React**.
 
@@ -22,6 +26,7 @@ I like :
 -->
 
 ## Education
+* **Self-taught (Udemy, OpenClassroom...)** Now
 * **RNCP level 1 Information System Project Manager** 2020
 * **Opquast accreditation** 2018
 * **RNCP level 3 Software Developer** 2018
