@@ -16,6 +16,7 @@ I like :
 * ...
 
 ## Experience
+* **Training in React** (Udemy, personnal projects...) - now
 * **Digitalization project manager** at *Fiducial 2020 - 2018*
 * **React Native developer** at *Institut G4 2018 - 2019*
 * **Web Developer** at *Plugin Design 2018 - 2017*
@@ -27,10 +28,10 @@ I like :
 -->
 
 ## Education
-* **Self-taught (Udemy, OpenClassroom...)** Now
 * **RNCP level 1 Information System Project Manager** 2020
 * **Opquast accreditation** 2018
 * **RNCP level 3 Software Developer** 2018
+* **Technical degree in networks and telecommunications** (DUT RT) 207
 
 
 My Github is mostly aimed for personnal projects. Check my [Gitlab](https://gitlab.com/bastienxs) for collaboration projects 👍. 
