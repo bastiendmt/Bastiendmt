@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a French **JavaScript developer**. I'm aspiring to acquire **managerial responsibilities** medium term 💻
+I'm a French **JavaScript developer**. I'm aspiring to acquire **managerial responsibilities** long term 💻
 
 I also love design ✏ and project management 📊
 
@@ -9,6 +9,8 @@ Specalized in **web development** and **React**.
 
 I like :
 * JavaScript
+* React
+* Node
 * Python 
 * Design
 * Productivity
@@ -35,6 +37,8 @@ I like :
 
 
 My Github is mostly aimed for personnal projects. Check my [Gitlab](https://gitlab.com/bastienxs) for collaboration projects 👍. 
+
+Checkout my favorites projects. They're live and only waiting you to check them out ! ⬇️
 
 <!--
 **Bastiendmt/Bastiendmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
