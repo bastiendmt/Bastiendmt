@@ -1,44 +1,46 @@
 ## Hi there 👋
-I'm a French **JavaScript developer**. I'm aspiring to acquire **managerial responsibilities** long term 💻
+My name is Bastien Dumont and i'm Fullstack developer. After my education at Institut G4 I'm seeking a position where I can put my skills to profit. I always pay attention to details and a clear organization in order to aim for perfection. 
 
-I also love design ✏ and project management 📊
+- I'm currently looking for a web developer postion (in a JS environemet and ideally React) 
+- I'm learning NodeJs
+- I'm interested in design and management
+- I love innovation and new things
 
-I always pay attention to details and a clear organization in order to aim for perfection. 
+My favorites technologies :
 
-Specalized in **web development** and **React**.
-
-I like :
-* JavaScript
-* React
-* Node
-* Python 
-* Design
-* Productivity
-* Innovation
-* ...
-
-## Experience
-* **Training in React** (Udemy, personnal projects...) - now
-* **Digitalization project manager** at *Fiducial 2020 - 2018*
-* **React Native developer** at *Institut G4 2018 - 2019*
-* **Web Developer** at *Plugin Design 2018 - 2017*
-* **Enterprise technician** at *Orange 2017-2016*
-
-<!--
-## Main projects
-* **Project director** 
--->
-
-## Education
-* **RNCP level 1 Information System Project Manager** 2020
-* **Opquast accreditation** 2018
-* **RNCP level 3 Software Developer** 2018
-* **Technical degree in networks and telecommunications** (DUT RT) 207
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" title="React"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" title="JavaScript"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="Typescript"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" title="Node Js"></code>
+<code><img height="20" src="https://www.ubidreams.fr/wp-content/uploads/2020/06/logo-react-native.png" title="React Native"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" title="Next JS"></code>
+<code><img height="20" src="https://montykamath.files.wordpress.com/2018/02/graphql.png?w=210&h=210" title="GraphQL"></code>
+<code><img height="20" src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2016/04/html5-logo-1-512x500.png" title="HTML"></code>
+<code><img height="20" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" title="CSS"></code>
 
 
-My Github is mostly aimed for personnal projects. Check my [Gitlab](https://gitlab.com/bastienxs) for collaboration projects 👍. 
+
+And some other I know
+
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" title="Python"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" title="Laravel"></code>
+<code><img height="20" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" title="Php"></code>
+<code><img height="20" src="https://media.glassdoor.com/sqll/433703/mongodb-squarelogo-1564695792753.png" title="mongo DB"></code>
+
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" title="Photoshop"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1051px-Adobe_InDesign_CC_icon.svg.png" title="Photoshop"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" title="Photoshop"></code>
+<code><img height="20" src="https://grafikart.fr/uploads/icons/redux.svg" title="Redux"></code>
+
+
+My Github is mostly aimed for personnal projects. Check my [Gitlab](https://gitlab.com/Bastiendmt) for collaboration projects 👍. 
 
 Checkout my favorites projects. They're live and only waiting you to check them out ! ⬇️
+
+
+<a href="https://www.linkedin.com/in/bastien-dumont/">
+  <img align="left" alt="Bastien Dumont | LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+</a>
 
 <!--
 **Bastiendmt/Bastiendmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
