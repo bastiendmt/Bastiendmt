@@ -24,13 +24,13 @@ And some other I know
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" title="Python"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" title="Laravel"></code>
-<code><img height="20" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" title="Php"></code>
+<code><img height="20" src="https://grafikart.fr/uploads/icons/redux.svg" title="Redux"></code>
 <code><img height="20" src="https://media.glassdoor.com/sqll/433703/mongodb-squarelogo-1564695792753.png" title="mongo DB"></code>
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" title="Photoshop"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1051px-Adobe_InDesign_CC_icon.svg.png" title="Photoshop"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" title="Photoshop"></code>
-<code><img height="20" src="https://grafikart.fr/uploads/icons/redux.svg" title="Redux"></code>
+
 
 
 My Github is mostly aimed for personnal projects. Check my [Gitlab](https://gitlab.com/Bastiendmt) for collaboration projects 👍. 
