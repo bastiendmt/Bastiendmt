@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name is Bastien Dumont and i'm Fullstack developer. After my education at Institut G4 I'm seeking a position where I can put my skills to profit. I always pay attention to details and a clear organization in order to aim for perfection. 
 
-- I'm currently looking for a web developer postion (in a JS environment and ideally React) 
+- I mainly work in JS environments and more specifically React
 - I'm learning NodeJs
-- I'm interested in design and management
+- I'm also interested in design and management
 - I love innovation and new things
 
 My favorites technologies :
