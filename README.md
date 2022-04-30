@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Bastien Dumont and i'm Fullstack developer. After my education at Institut G4 I'm seeking a position where I can put my skills to profit. I always pay attention to details and a clear organization in order to aim for perfection. 
+My name is Bastien Dumont and i'm Fullstack developer. 
 
 - I mainly work in JS environments and more specifically React
 - I'm learning NodeJs
@@ -39,7 +39,7 @@ Checkout my favorites projects. They're live and only waiting you to check them 
 
 
 <a href="https://www.linkedin.com/in/bastien-dumont/">
-  <img align="left" alt="Bastien Dumont | LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="Bastien Dumont | LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 
 <!--
