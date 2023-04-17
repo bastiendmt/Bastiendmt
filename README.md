@@ -1,10 +1,14 @@
 ## Hi there 👋
+
 My name is Bastien and I'm Fullstack developer. 
 
-- I work in JS environments and more specifically React
+- I work in JS environments and more specifically React ⚛️
 - I'm learning Deno
+- I am passionate about maintaining clean code and adhering to linting rules
+- I enjoy innovation and new things
 - I'm also interested in design and management
-- I love innovation and new things
+
+⚡ Fun fact: I do parkour and chase-tag
 
  My favorites technologies are :
 <p align="left">
@@ -27,9 +31,9 @@ My name is Bastien and I'm Fullstack developer.
 </p>
 
 
-My Github is mostly aimed for personnal projects. Check my [Gitlab](https://gitlab.com/Bastiendmt) for collaboration projects 👍. 
+Also check my work profile [here](https://forge.grandlyon.com/bdumont) where I work on interesting open source projects.
 
-Checkout my favorites projects below. They're live and only waiting you to check them out ! ⬇️
+Checkout my personal projects below, most of them are live ! ⬇️
 
 
 <!--
@@ -44,5 +48,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
