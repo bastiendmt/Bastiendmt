@@ -3,14 +3,16 @@
 My name is Bastien and I'm Fullstack developer. 
 
 - I work in JS environments and more specifically React ⚛️
-- I'm learning Deno
+- I'm learning Go
 - I am passionate about maintaining clean code and adhering to linting rules
 - I enjoy innovation and new things
 - I'm also interested in design and management
 
-⚡ Fun fact: I do parkour and chase-tag
+### ⚡ Fun fact
 
- My favorites technologies are :
+I do parkour and chase-tag. Those sports are very engaging and allow me to outdo myself in both physical and mental challenges.
+
+ ### 🛠️ My favorites technologies
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
@@ -26,12 +28,14 @@ My name is Bastien and I'm Fullstack developer.
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
+### 💼 Work 
 
-Also check my work profile [here](https://forge.grandlyon.com/bdumont) where I work on interesting open source projects.
+I work at Metropole de Lyon where we have interesting  and open source projects. [Work profile](https://forge.grandlyon.com/bdumont) 
+
+### 🔥 Personal projets
 
 Checkout my personal projects below, most of them are live ! ⬇️
 
