@@ -31,13 +31,13 @@ I do parkour and chase-tag. Those sports are very engaging and allow me to outdo
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-### 💼 Work 
+### 💼 Work experience
 
-I work at Metropole de Lyon where we have interesting  and open source projects. [Work profile](https://forge.grandlyon.com/bdumont) 
+Since 2021, I work at Metropole de Lyon. We have interesting and open source projects. Checkout my [work profile here](https://forge.grandlyon.com/bdumont).
 
 ### 🔥 Personal projets
 
-Checkout my personal projects below, most of them are live ! ⬇️
+My personal projects are below, most of them are live ! Feel free to try them ⬇️
 
 
 <!--
