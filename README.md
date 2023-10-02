@@ -10,7 +10,7 @@ My name is Bastien and I'm Fullstack developer.
 
 ### ⚡ Fun fact
 
-I do parkour and chase-tag. Those sports are very engaging and allow me to outdo myself in both physical and mental challenges.
+I do parkour and chase-tag. Those sports are very engaging and allow me to outdo myself both in physical and mental challenges.
 
  ### 🛠️ My favorites technologies
 <p align="left">
@@ -33,7 +33,9 @@ I do parkour and chase-tag. Those sports are very engaging and allow me to outdo
 
 ### 💼 Work experience
 
-Since 2021, I work at Metropole de Lyon. We have interesting and open source projects. Checkout my [work profile here](https://forge.grandlyon.com/bdumont).
+- Metropole de Lyon - Feb 2021 to now
+  
+We have interesting and open source projects. Checkout my [work profile here](https://forge.grandlyon.com/bdumont).
 
 ### 🔥 Personal projets
 
