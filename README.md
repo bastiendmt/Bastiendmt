@@ -33,7 +33,7 @@ I do parkour and chase-tag. Those sports are very engaging and allow me to outdo
 
 ### 💼 Work experience
 
-- Metropole de Lyon - Feb 2021 to now
+- Metropole de Lyon - Feb 2022 to now
   
 We have interesting and open source projects. Checkout my [work profile here](https://forge.grandlyon.com/bdumont).
 
