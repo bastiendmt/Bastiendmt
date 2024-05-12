@@ -2,7 +2,7 @@
 
 My name is Bastien and I'm Fullstack developer. 
 
-- I work in JS environments and more specifically React ⚛️
+- I work in JS environments and currently specialized in React ⚛️
 - I'm learning Go
 - I am passionate about maintaining clean code and adhering to linting rules
 - I enjoy innovation and new things
