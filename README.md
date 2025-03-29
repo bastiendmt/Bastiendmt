@@ -119,9 +119,6 @@ I do parkour and chase-tag. Those sports are very engaging and allow me to outdo
 
 My personal projects are below, most of them are live ! Feel free to try them ⬇️
 
-
-<img height="36" src="https://svgl.app/library/obsidian.svg" />
-
 <!--
 **Bastiendmt/Bastiendmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
