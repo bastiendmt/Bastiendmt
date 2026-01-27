@@ -74,17 +74,10 @@ I do parkour and chase-tag. Those sports are very engaging and allow me to outdo
   /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
     ><img
-      src="https://svgl.app/library/mongodb.svg"
+      src="https://svgl.app/library/mongodb-icon-dark.svg"
       width="36"
       height="36"
       alt="MongoDB"
-  /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://svgl.app/library/firebase.svg"
-      width="36"
-      height="36"
-      alt="Firebase"
   /></a>
 </p>
 
@@ -112,8 +105,8 @@ I do parkour and chase-tag. Those sports are very engaging and allow me to outdo
 
 ## 💼 Work experience
 
-- Artifeel - Dec 2024 - now
-- Metropole de Lyon - Feb 2022 to Nov 2024, where I contributed to interesting open source projects. Checkout my [profile here](https://forge.grandlyon.com/bdumont).
+- Artifeel - Software engineer - Dec 2024 - now
+- Metropole de Lyon - Software engineer - Feb 2022 to Nov 2024, where I contributed to interesting open source projects. Checkout my [profile here](https://forge.grandlyon.com/bdumont).
 
 ## 🔥 Personal projets
 
