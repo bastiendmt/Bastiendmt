@@ -106,7 +106,7 @@ I do parkour and chase-tag. Those sports are very engaging and allow me to outdo
 ## 💼 Work experience
 
 - Artifeel - Software engineer - Dec 2024 - now
-- Metropole de Lyon - Software engineer - Feb 2022 to Nov 2024, where I contributed to interesting open source projects. Checkout my [profile here](https://forge.grandlyon.com/bdumont).
+- Metropole de Lyon - Software engineer - Feb 2022 to Nov 2024, where I contributed to interesting [open source projects](https://forge.grandlyon.com/web-et-numerique/factory/llle_project).
 
 ## 🔥 Personal projets
 
